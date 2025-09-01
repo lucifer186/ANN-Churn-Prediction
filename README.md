@@ -20,8 +20,8 @@ To run this project, you need to have Python installed on your machine. Follow t
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/sanskaryo/Churn-Prediction-Using_ANN.git
-   cd Churn-Prediction-Using_ANN
+   git clone repo_name
+   cd folder
    ```
 
 2. Install the required dependencies:
